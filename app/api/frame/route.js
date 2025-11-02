@@ -21,4 +21,4 @@ export async function POST(req) {
     "fc:frame:button:1:action": "post",
     "fc:frame:post_url": "https://asisten-omega.vercel.app/api/frame"
   });
-                                                                              }
+}
